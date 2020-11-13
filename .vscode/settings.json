@@ -1,0 +1,9 @@
+{
+    "editor.wordWrap": "on",
+    "[markdown]": {
+
+        "editor.wordWrap": "on",
+        "editor.quickSuggestions": false
+    },
+    "typescript.disableAutomaticTypeAcquisition": true
+}
